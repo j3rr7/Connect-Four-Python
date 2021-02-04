@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\JeremyF\Desktop\pyProject\env"
+VIRTUAL_ENV="C:\Users\JeremyF\Documents\GitHub\Connect-Four-Python\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
